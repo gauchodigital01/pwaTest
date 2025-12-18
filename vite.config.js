@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       manifest: {
-        name: 'My PWA',
-        short_name: 'MyPWA',
+        name: 'Gestor de viajes',
+        short_name: 'Viajes',
         start_url: '/',
         display: 'standalone',
         background_color: '#0f172a',
